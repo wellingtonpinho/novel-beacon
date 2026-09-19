@@ -1,6 +1,8 @@
 {
-  "status": "offline",
-  "wan_url": "",
-  "local_ip": "127.0.0.1",
-  "atualizado_em": "2026-09-19 16:00:00"
+  "status": "online",
+  "wan_url": "https://whilst-hunting-dry-tire.trycloudflare.com",
+  "local_ip": "192.168.1.100",
+  "port": 8000,
+  "versao": "v2.9.5",
+  "atualizado_em": "2026-09-19 16:06:03"
 }
