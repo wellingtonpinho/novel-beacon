@@ -1,9 +1,9 @@
 {
-  "status": "online",
-  "wan_url": "https://reports-moderate-scripting-heights.trycloudflare.com",
+  "status": "offline",
+  "wan_url": "",
   "port": 8000,
   "versao": "v2.9.5",
-  "atualizado_em": "2026-09-19 18:36:18",
-  "ts": 1789857378,
-  "sig": "00421114bfe64bee358c2052c03780bb2e4954321f92d90b7988fc93bc6a7395"
+  "atualizado_em": "2026-09-19 19:52:22",
+  "ts": 1789861942,
+  "sig": "be1846395aea34f14093a504884f64b93abd11f3ea7d46882a335fdf16f2b343"
 }
