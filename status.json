@@ -1,9 +1,9 @@
 {
-  "status": "offline",
-  "wan_url": "",
+  "status": "online",
+  "wan_url": "https://consists-hughes-subscription-tennessee.trycloudflare.com",
   "port": 8000,
-  "versao": "v2.9.5",
-  "atualizado_em": "2026-09-19 19:52:22",
-  "ts": 1789861942,
-  "sig": "be1846395aea34f14093a504884f64b93abd11f3ea7d46882a335fdf16f2b343"
+  "versao": "v2.9.7",
+  "atualizado_em": "2026-09-20 19:00:57",
+  "ts": 1789945257,
+  "sig": "f434e8f9f52546cefd2ef9c5e187746379eeb96b52ef1ea7717082ad6962425f"
 }
