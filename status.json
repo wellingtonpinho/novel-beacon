@@ -1,9 +1,9 @@
 {
-  "status": "offline",
-  "wan_url": "",
+  "status": "online",
+  "wan_url": "https://sagem-geek-mozilla-address.trycloudflare.com",
   "port": 8000,
-  "versao": "v2.9.7",
-  "atualizado_em": "2026-09-20 19:27:14",
-  "ts": 1789946834,
-  "sig": "cdccf957eab4cdcfa37d326b3b769e484656b87d3fe38757722a7dd1a67127c8"
+  "versao": "v3.0.0",
+  "atualizado_em": "2026-09-21 20:10:10",
+  "ts": 1790035810,
+  "sig": "a23e6446ec44bea95129df5f3f9bd05d02b20aca7a061b22e9c647d9a72b6fc5"
 }
