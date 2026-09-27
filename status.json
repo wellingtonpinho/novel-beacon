@@ -1,9 +1,9 @@
 {
-  "status": "online",
-  "wan_url": "https://adds-contractors-newer-connect.trycloudflare.com",
+  "status": "offline",
+  "wan_url": "",
   "port": 8000,
   "versao": "v3.0.3",
-  "atualizado_em": "2026-09-27 14:38:42",
-  "ts": 1790534322,
-  "sig": "6723bb05b3215ea04cc0c57b9b89da1f3bb1eb887f0ce1591a590cdb9b0579c6"
+  "atualizado_em": "2026-09-27 14:53:19",
+  "ts": 1790535199,
+  "sig": "00e0e4ee4fd0caf7feb0de486f6c8d13fd6984c198ed6cd89886b29c3124936c"
 }
