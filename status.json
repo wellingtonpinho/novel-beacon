@@ -1,9 +1,9 @@
 {
-  "status": "offline",
-  "wan_url": "",
+  "status": "online",
+  "wan_url": "https://donation-awesome-volvo-seq.trycloudflare.com",
   "port": 8000,
   "versao": "v3.0.3",
-  "atualizado_em": "2026-09-27 14:53:19",
-  "ts": 1790535199,
-  "sig": "00e0e4ee4fd0caf7feb0de486f6c8d13fd6984c198ed6cd89886b29c3124936c"
+  "atualizado_em": "2026-09-27 20:11:03",
+  "ts": 1790554263,
+  "sig": "757d5fabff713c8f895d9a2d7ced0106e77f8f9d09f90f46d38bbb803f439f11"
 }
