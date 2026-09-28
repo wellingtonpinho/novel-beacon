@@ -1,9 +1,9 @@
 {
-  "status": "online",
-  "wan_url": "https://packing-dpi-township-reporting.trycloudflare.com",
+  "status": "offline",
+  "wan_url": "",
   "port": 8000,
   "versao": "v3.1.1",
-  "atualizado_em": "2026-09-27 20:59:09",
-  "ts": 1790557149,
-  "sig": "9cf2830c7e3355d74935c3b9dac29cadcfd7a8a01ad38697e076b042c2c04984"
+  "atualizado_em": "2026-09-27 21:04:21",
+  "ts": 1790557461,
+  "sig": "800ac207958b42ecf8d5da1ebccc9ff22210a88a3073096c5e21571755bd5f97"
 }
