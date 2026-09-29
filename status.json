@@ -1,9 +1,9 @@
 {
-  "status": "online",
-  "wan_url": "https://announcement-heights-graham-technological.trycloudflare.com",
+  "status": "offline",
+  "wan_url": "",
   "port": 8000,
   "versao": "v3.1.2",
-  "atualizado_em": "2026-09-28 22:44:54",
-  "ts": 1790649894,
-  "sig": "c80b19c9b8863938d9619f8c289f66c758b1636b375e29673e73b0073c2ec72c"
+  "atualizado_em": "2026-09-28 22:55:11",
+  "ts": 1790650511,
+  "sig": "5c5a7b180fad5f7107f7aea4f06fa20217ff9055c13c75ac2c87ca5247737979"
 }
