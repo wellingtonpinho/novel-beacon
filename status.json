@@ -1,9 +1,9 @@
 {
-  "status": "online",
-  "wan_url": "https://logic-sum-corresponding-ons.trycloudflare.com",
+  "status": "offline",
+  "wan_url": "",
   "port": 8000,
   "versao": "v3.1.4",
-  "atualizado_em": "2026-10-10 16:26:28",
-  "ts": 1791663988,
-  "sig": "be693134b7ac5b5b3a65efe24571c52ae835c201f7123660c69300bf043b7d58"
+  "atualizado_em": "2026-10-10 17:53:32",
+  "ts": 1791669212,
+  "sig": "b667f121c6298f8abc235d5dcc65a7dbc2bbc888becad3e2b58807902cf5e641"
 }
