@@ -1,9 +1,9 @@
 {
   "status": "online",
-  "wan_url": "https://rides-buzz-penny-britney.trycloudflare.com",
+  "wan_url": "https://logic-sum-corresponding-ons.trycloudflare.com",
   "port": 8000,
   "versao": "v3.1.4",
-  "atualizado_em": "2026-10-10 16:23:02",
-  "ts": 1791663782,
-  "sig": "2b85a4a171175a79a60d4b3c2e2d22bb25519a3839d18a86a2540a2f05d8c94c"
+  "atualizado_em": "2026-10-10 16:26:28",
+  "ts": 1791663988,
+  "sig": "be693134b7ac5b5b3a65efe24571c52ae835c201f7123660c69300bf043b7d58"
 }
