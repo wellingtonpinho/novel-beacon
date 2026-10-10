@@ -1,9 +1,9 @@
 {
-  "status": "offline",
-  "wan_url": "",
+  "status": "online",
+  "wan_url": "https://rides-buzz-penny-britney.trycloudflare.com",
   "port": 8000,
-  "versao": "v3.1.2",
-  "atualizado_em": "2026-09-28 22:55:11",
-  "ts": 1790650511,
-  "sig": "5c5a7b180fad5f7107f7aea4f06fa20217ff9055c13c75ac2c87ca5247737979"
+  "versao": "v3.1.4",
+  "atualizado_em": "2026-10-10 16:23:02",
+  "ts": 1791663782,
+  "sig": "2b85a4a171175a79a60d4b3c2e2d22bb25519a3839d18a86a2540a2f05d8c94c"
 }
