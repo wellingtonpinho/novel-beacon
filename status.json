@@ -1,9 +1,9 @@
 {
-  "status": "online",
-  "wan_url": "https://contributing-glasgow-begun-career.trycloudflare.com",
+  "status": "offline",
+  "wan_url": "",
   "port": 8000,
   "versao": "v3.1.5",
-  "atualizado_em": "2026-10-11 11:12:22",
-  "ts": 1791731542,
-  "sig": "3438b6210b804d7aa18c20461b933e2ae742cc732ff06e39276ca84047044186"
+  "atualizado_em": "2026-10-11 11:18:10",
+  "ts": 1791731890,
+  "sig": "815d3d53f626311a49828710327e121a815850ff08c448d9fe8480d19a6c557e"
 }
