@@ -1,9 +1,9 @@
 {
-  "status": "online",
-  "wan_url": "https://ending-filter-sullivan-transparency.trycloudflare.com",
+  "status": "offline",
+  "wan_url": "",
   "port": 8000,
   "versao": "v3.1.5",
-  "atualizado_em": "2026-10-11 11:08:13",
-  "ts": 1791731293,
-  "sig": "521eb3d78b821a03a3946ba7c2c458fcc4170432a417229bcf36db076b9cf5ba"
+  "atualizado_em": "2026-10-11 11:11:32",
+  "ts": 1791731492,
+  "sig": "16414a910ed1c307a99ee51c970898bb78a7489d51442f7c1319aa2380054855"
 }
