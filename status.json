@@ -1,9 +1,9 @@
 {
-  "status": "online",
-  "wan_url": "https://orientation-pda-comments-glucose.trycloudflare.com",
+  "status": "offline",
+  "wan_url": "",
   "port": 8000,
   "versao": "v3.2.0",
-  "atualizado_em": "2026-10-12 16:24:53",
-  "ts": 1791836693,
-  "sig": "51e90b370aee3ee41df0cbf6336a566293e330083118657290b43cfbe8141f05"
+  "atualizado_em": "2026-10-12 17:24:44",
+  "ts": 1791840284,
+  "sig": "95280b789e87fd3c0a2e5f4bf9ce8cb244f091a1c97dbd9a94692b6d19d2d9cd"
 }
