@@ -1,9 +1,9 @@
 {
-  "status": "online",
-  "wan_url": "https://during-teddy-warren-divx.trycloudflare.com",
+  "status": "offline",
+  "wan_url": "",
   "port": 8000,
   "versao": "v3.2.1",
-  "atualizado_em": "2026-10-12 17:25:32",
-  "ts": 1791840332,
-  "sig": "b416bea4b2946166804b574de87460b63bae3cc72386551dec149907192e3ca5"
+  "atualizado_em": "2026-10-12 17:31:44",
+  "ts": 1791840704,
+  "sig": "486c5896b454d6464d2e8d2adef6addd682155eaa5af0eff7db56ee733b002a3"
 }
