@@ -1,9 +1,9 @@
 {
-  "status": "offline",
-  "wan_url": "",
+  "status": "online",
+  "wan_url": "https://tunes-species-concerned-kirk.trycloudflare.com",
   "port": 8000,
-  "versao": "v3.2.1",
-  "atualizado_em": "2026-10-12 17:31:44",
-  "ts": 1791840704,
-  "sig": "486c5896b454d6464d2e8d2adef6addd682155eaa5af0eff7db56ee733b002a3"
+  "versao": "v3.2.2",
+  "atualizado_em": "2026-10-12 21:43:35",
+  "ts": 1791855815,
+  "sig": "75f66a762ac1fdfc5ace41f2bb904ba1bd9486cb8d1ad63e8775ac072802b58a"
 }
