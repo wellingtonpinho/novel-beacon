@@ -1,9 +1,9 @@
 {
-  "status": "online",
-  "wan_url": "https://utils-football-reader-owner.trycloudflare.com",
+  "status": "offline",
+  "wan_url": "",
   "port": 8000,
   "versao": "v3.3.1",
-  "atualizado_em": "2026-10-18 19:25:35",
-  "ts": 1792365935,
-  "sig": "f370a7f1d0fb153693a4c94671a1474f518f167cdd1a114d17a64e91655e4e10"
+  "atualizado_em": "2026-10-18 19:34:28",
+  "ts": 1792366468,
+  "sig": "23dbaea834b249d1b346ee534c597813b2b3f7628e08a8e0282c4a8fa7906cf3"
 }
