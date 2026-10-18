@@ -1,9 +1,9 @@
 {
-  "status": "offline",
-  "wan_url": "",
+  "status": "online",
+  "wan_url": "https://hybrid-metal-nsw-sir.trycloudflare.com",
   "port": 8000,
-  "versao": "v3.3.0",
-  "atualizado_em": "2026-10-18 12:49:48",
-  "ts": 1792342188,
-  "sig": "5557bf3a37cc0107bc0006fc390c6c73840f8300d8ba6dd32e1b117335a15e9f"
+  "versao": "v3.3.1",
+  "atualizado_em": "2026-10-18 12:59:27",
+  "ts": 1792342767,
+  "sig": "04213a2417eefb3cebc0ae669340540091976af1a2533cb61f8f21d994542a5d"
 }
