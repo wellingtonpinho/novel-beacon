@@ -1,9 +1,9 @@
 {
-  "status": "online",
-  "wan_url": "https://louisville-absolute-penalties-layers.trycloudflare.com",
+  "status": "offline",
+  "wan_url": "",
   "port": 8000,
   "versao": "v3.3.1",
-  "atualizado_em": "2026-10-18 19:35:03",
-  "ts": 1792366503,
-  "sig": "5572c801ac7adb708240e94d87ec0ffb452f0d5b05277911d291ffd8a6c327fa"
+  "atualizado_em": "2026-10-18 19:40:30",
+  "ts": 1792366830,
+  "sig": "b31b2f750492c9c57748da44e9e601f57c6c848792aa7537d401431e9214ddf9"
 }
