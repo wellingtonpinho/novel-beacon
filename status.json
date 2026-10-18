@@ -1,9 +1,9 @@
 {
-  "status": "online",
-  "wan_url": "https://minerals-coordination-defendant-nato.trycloudflare.com",
+  "status": "offline",
+  "wan_url": "",
   "port": 8000,
   "versao": "v3.3.0",
-  "atualizado_em": "2026-10-18 12:03:08",
-  "ts": 1792339388,
-  "sig": "805efdac171b398fd76921bdf824412f75c05779351f56393266eb14b2f14855"
+  "atualizado_em": "2026-10-18 12:49:48",
+  "ts": 1792342188,
+  "sig": "5557bf3a37cc0107bc0006fc390c6c73840f8300d8ba6dd32e1b117335a15e9f"
 }
