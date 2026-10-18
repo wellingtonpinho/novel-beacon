@@ -1,9 +1,9 @@
 {
   "status": "online",
-  "wan_url": "https://farms-soft-pulse-smilies.trycloudflare.com",
+  "wan_url": "https://bush-neural-tank-lab.trycloudflare.com",
   "port": 8000,
   "versao": "v3.3.1",
-  "atualizado_em": "2026-10-18 17:30:46",
-  "ts": 1792359046,
-  "sig": "317e9548fd0e4b0045d166608fb856f7c54f242295637c9621d70dfff865d6a8"
+  "atualizado_em": "2026-10-18 17:48:37",
+  "ts": 1792360117,
+  "sig": "354bedfa9692d2ab914157f99c7e64b77c0819bd3749cb7decede1c82c11efb6"
 }
