@@ -1,9 +1,9 @@
 {
-  "status": "online",
-  "wan_url": "https://dress-confidential-supplements-returning.trycloudflare.com",
+  "status": "offline",
+  "wan_url": "",
   "port": 8000,
   "versao": "v3.3.0",
-  "atualizado_em": "2026-10-18 11:16:24",
-  "ts": 1792336584,
-  "sig": "1384dcbee3bcb9bb79ebb74e0f74893a841a3e5543eeb920e829133258335d0c"
+  "atualizado_em": "2026-10-18 11:36:56",
+  "ts": 1792337816,
+  "sig": "b64d7bbdde4526b6d935ec4facabd2e8d8ae1cdec48d69860ba02062d28ff43f"
 }
