@@ -1,9 +1,9 @@
 {
   "status": "online",
-  "wan_url": "https://bush-neural-tank-lab.trycloudflare.com",
+  "wan_url": "https://salvador-groundwater-rocket-earning.trycloudflare.com",
   "port": 8000,
   "versao": "v3.3.1",
-  "atualizado_em": "2026-10-18 17:48:37",
-  "ts": 1792360117,
-  "sig": "354bedfa9692d2ab914157f99c7e64b77c0819bd3749cb7decede1c82c11efb6"
+  "atualizado_em": "2026-10-18 17:50:43",
+  "ts": 1792360243,
+  "sig": "aacebe05c2361eff4aeaa4b4290f2e588d41e77ed54b0f1e81bfea1e1ea6fba7"
 }
