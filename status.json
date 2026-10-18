@@ -1,9 +1,9 @@
 {
   "status": "online",
-  "wan_url": "https://hybrid-metal-nsw-sir.trycloudflare.com",
+  "wan_url": "https://prix-speeches-rep-stronger.trycloudflare.com",
   "port": 8000,
   "versao": "v3.3.1",
-  "atualizado_em": "2026-10-18 12:59:27",
-  "ts": 1792342767,
-  "sig": "04213a2417eefb3cebc0ae669340540091976af1a2533cb61f8f21d994542a5d"
+  "atualizado_em": "2026-10-18 13:17:55",
+  "ts": 1792343875,
+  "sig": "fe4968a1f8b6a3d9e4dadda029d560ad306dd922e99560fc1d7292fb39a07d20"
 }
