@@ -1,9 +1,9 @@
 {
-  "status": "online",
-  "wan_url": "https://salvador-groundwater-rocket-earning.trycloudflare.com",
+  "status": "offline",
+  "wan_url": "",
   "port": 8000,
   "versao": "v3.3.1",
-  "atualizado_em": "2026-10-18 17:50:43",
-  "ts": 1792360243,
-  "sig": "aacebe05c2361eff4aeaa4b4290f2e588d41e77ed54b0f1e81bfea1e1ea6fba7"
+  "atualizado_em": "2026-10-18 17:53:49",
+  "ts": 1792360429,
+  "sig": "489bb14e65d41b6a04077613b073bab987679e5c77d52a808a0706e30abb026f"
 }
