@@ -1,9 +1,9 @@
 {
-  "status": "online",
-  "wan_url": "https://gear-oak-dish-bicycle.trycloudflare.com",
+  "status": "offline",
+  "wan_url": "",
   "port": 8000,
   "versao": "v3.3.2",
-  "atualizado_em": "2026-10-18 19:43:30",
-  "ts": 1792367010,
-  "sig": "d4b3eda47f3fd60c9c452ac3652d9ffe011cee1e3847252ecfac3acb4093c707"
+  "atualizado_em": "2026-10-18 19:59:30",
+  "ts": 1792367970,
+  "sig": "8579b86371edcdc6b03d7d1597218c7e8408cc2b9619caef40a014a781537e5d"
 }
