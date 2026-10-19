@@ -1,9 +1,9 @@
 {
-  "status": "offline",
-  "wan_url": "",
+  "status": "online",
+  "wan_url": "https://autos-sterling-former-combined.trycloudflare.com",
   "port": 8000,
   "versao": "v3.3.3",
-  "atualizado_em": "2026-10-18 20:10:10",
-  "ts": 1792368610,
-  "sig": "7d3fbc85db9f05f30085fcfcbfbebf84458dfda094e97f90f8a9dab9258e44f7"
+  "atualizado_em": "2026-10-18 20:13:59",
+  "ts": 1792368839,
+  "sig": "895f13ad42fbb8a37752b68ace330d4cb429bb2f7f977b07ebd226c1a3f73662"
 }
