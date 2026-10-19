@@ -1,9 +1,9 @@
 {
-  "status": "offline",
-  "wan_url": "",
+  "status": "online",
+  "wan_url": "https://phrases-newspaper-alt-stability.trycloudflare.com",
   "port": 8000,
-  "versao": "v3.3.2",
-  "atualizado_em": "2026-10-18 19:59:30",
-  "ts": 1792367970,
-  "sig": "8579b86371edcdc6b03d7d1597218c7e8408cc2b9619caef40a014a781537e5d"
+  "versao": "v3.3.3",
+  "atualizado_em": "2026-10-18 20:07:03",
+  "ts": 1792368423,
+  "sig": "cf03447c9011d51bce45558d43b5313041d2f3abab0a1e59f2afb49d4fb05259"
 }
