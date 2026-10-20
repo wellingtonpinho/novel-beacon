@@ -1,9 +1,9 @@
 {
   "status": "online",
-  "wan_url": "https://sydney-paperback-campaigns-unions.trycloudflare.com",
+  "wan_url": "https://nowhere-outreach-else-updating.trycloudflare.com",
   "port": 8000,
-  "versao": "v3.3.4",
-  "atualizado_em": "2026-10-19 20:25:35",
-  "ts": 1792455935,
-  "sig": "dccfd949dcf4c40b65b087fb64ed666e49f7118f19b4e4ee7f97f6efcd2c4eb6"
+  "versao": "v3.3.5",
+  "atualizado_em": "2026-10-19 21:08:18",
+  "ts": 1792458498,
+  "sig": "ad7f1dc545d03697effc7255242bfb48d18aca85e1bcc9ec395ba0e2304bb9d0"
 }
