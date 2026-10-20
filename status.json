@@ -1,9 +1,9 @@
 {
   "status": "online",
-  "wan_url": "https://boom-prophet-photos-provisions.trycloudflare.com",
+  "wan_url": "https://sydney-paperback-campaigns-unions.trycloudflare.com",
   "port": 8000,
   "versao": "v3.3.4",
-  "atualizado_em": "2026-10-18 20:32:50",
-  "ts": 1792369970,
-  "sig": "7165bd96f32f01e3549fe5c7fd30560a0c7178f9704200432838bef1c22778c5"
+  "atualizado_em": "2026-10-19 20:25:35",
+  "ts": 1792455935,
+  "sig": "dccfd949dcf4c40b65b087fb64ed666e49f7118f19b4e4ee7f97f6efcd2c4eb6"
 }
