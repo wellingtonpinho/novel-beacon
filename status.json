@@ -1,9 +1,9 @@
 {
   "status": "online",
-  "wan_url": "https://programs-postage-digest-licence.trycloudflare.com",
+  "wan_url": "https://respondents-massive-with-structured.trycloudflare.com",
   "port": 8000,
-  "versao": "v3.3.5",
-  "atualizado_em": "2026-10-19 21:23:39",
-  "ts": 1792459419,
-  "sig": "0fd39f7915859e966475a9fc1b35f338b93ed61dcc0172d747be79c63df5f114"
+  "versao": "v3.3.6",
+  "atualizado_em": "2026-10-19 21:32:57",
+  "ts": 1792459977,
+  "sig": "2d98da7fece385964a25af2c127562a786ea511e055b8b47d79fa6960eeea16d"
 }
