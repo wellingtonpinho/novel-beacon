@@ -1,9 +1,9 @@
 {
   "status": "online",
-  "wan_url": "https://respondents-massive-with-structured.trycloudflare.com",
+  "wan_url": "https://surgery-beverly-substances-daisy.trycloudflare.com",
   "port": 8000,
   "versao": "v3.3.6",
-  "atualizado_em": "2026-10-19 21:32:57",
-  "ts": 1792459977,
-  "sig": "2d98da7fece385964a25af2c127562a786ea511e055b8b47d79fa6960eeea16d"
+  "atualizado_em": "2026-10-20 19:50:40",
+  "ts": 1792540240,
+  "sig": "0a41089cd69a494b6b57513538976e10d847d1ef178c54ce72d7bc37ac78258d"
 }
