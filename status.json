@@ -1,9 +1,9 @@
 {
   "status": "online",
-  "wan_url": "https://nowhere-outreach-else-updating.trycloudflare.com",
+  "wan_url": "https://programs-postage-digest-licence.trycloudflare.com",
   "port": 8000,
   "versao": "v3.3.5",
-  "atualizado_em": "2026-10-19 21:08:18",
-  "ts": 1792458498,
-  "sig": "ad7f1dc545d03697effc7255242bfb48d18aca85e1bcc9ec395ba0e2304bb9d0"
+  "atualizado_em": "2026-10-19 21:23:39",
+  "ts": 1792459419,
+  "sig": "0fd39f7915859e966475a9fc1b35f338b93ed61dcc0172d747be79c63df5f114"
 }
