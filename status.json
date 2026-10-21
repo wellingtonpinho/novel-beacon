@@ -1,9 +1,9 @@
 {
   "status": "online",
-  "wan_url": "https://several-engineers-option-decent.trycloudflare.com",
+  "wan_url": "https://katrina-marked-headlines-connectors.trycloudflare.com",
   "port": 8000,
   "versao": "v3.3.7",
-  "atualizado_em": "2026-10-21 13:16:53",
-  "ts": 1792603013,
-  "sig": "26ec14e25ca9aa8ad783065d4920720417bde558969eb1594e2461afb626cc16"
+  "atualizado_em": "2026-10-21 13:18:25",
+  "ts": 1792603105,
+  "sig": "d52472255c7fe0cb4d81a74ca2ffe6b3f5871b7496be169a7dd35528745fad9f"
 }
