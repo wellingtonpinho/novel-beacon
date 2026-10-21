@@ -1,9 +1,9 @@
 {
   "status": "online",
-  "wan_url": "https://ant-mambo-protocol-partition.trycloudflare.com",
+  "wan_url": "https://pollution-taxes-poly-rainbow.trycloudflare.com",
   "port": 8000,
   "versao": "v3.3.7",
-  "atualizado_em": "2026-10-21 12:03:42",
-  "ts": 1792598622,
-  "sig": "c70034a1cae21d3926f30c29d0ae614127eb54ca998a86adf1de3b954a429aba"
+  "atualizado_em": "2026-10-21 12:30:20",
+  "ts": 1792600220,
+  "sig": "9d68c3b3d2d330bce4a40b4520bf70735c2f69db69461e25b5b0aa92a4fb4fed"
 }
