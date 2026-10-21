@@ -1,9 +1,9 @@
 {
-  "status": "online",
-  "wan_url": "https://lab-governance-better-charitable.trycloudflare.com",
+  "status": "offline",
+  "wan_url": "",
   "port": 8000,
   "versao": "v3.3.6",
-  "atualizado_em": "2026-10-21 11:18:07",
-  "ts": 1792595887,
-  "sig": "37d6a4487019bd7b7aef27410a6457d8ea5819ac25c592eaaf6f6597c9d6764c"
+  "atualizado_em": "2026-10-21 11:24:24",
+  "ts": 1792596264,
+  "sig": "4c48fa8f4a6c4d31fedd5378c412088eae38511924a7a4dd15e54975efee8c0d"
 }
