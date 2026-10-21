@@ -1,9 +1,9 @@
 {
   "status": "online",
-  "wan_url": "https://productions-learn-pvc-english.trycloudflare.com",
+  "wan_url": "https://several-engineers-option-decent.trycloudflare.com",
   "port": 8000,
   "versao": "v3.3.7",
-  "atualizado_em": "2026-10-21 12:45:38",
-  "ts": 1792601138,
-  "sig": "db2a85bf0338789a8bb0aef106b5ab182316f3eb0a26a4c9683b2a311e0c1c8d"
+  "atualizado_em": "2026-10-21 13:16:53",
+  "ts": 1792603013,
+  "sig": "26ec14e25ca9aa8ad783065d4920720417bde558969eb1594e2461afb626cc16"
 }
