@@ -1,9 +1,9 @@
 {
   "status": "online",
-  "wan_url": "https://katrina-marked-headlines-connectors.trycloudflare.com",
+  "wan_url": "https://bills-victory-governmental-printed.trycloudflare.com",
   "port": 8000,
   "versao": "v3.3.7",
-  "atualizado_em": "2026-10-21 13:18:25",
-  "ts": 1792603105,
-  "sig": "d52472255c7fe0cb4d81a74ca2ffe6b3f5871b7496be169a7dd35528745fad9f"
+  "atualizado_em": "2026-10-21 19:54:10",
+  "ts": 1792626850,
+  "sig": "98b060b44a0e2bb46544efbc02bbfb1f40ada858473e7a01ac25e78613f9b271"
 }
