@@ -1,9 +1,9 @@
 {
-  "status": "offline",
-  "wan_url": "",
+  "status": "online",
+  "wan_url": "https://immune-leaf-slots-series.trycloudflare.com",
   "port": 8000,
-  "versao": "v3.3.6",
-  "atualizado_em": "2026-10-21 11:24:24",
-  "ts": 1792596264,
-  "sig": "4c48fa8f4a6c4d31fedd5378c412088eae38511924a7a4dd15e54975efee8c0d"
+  "versao": "v3.3.7",
+  "atualizado_em": "2026-10-21 11:57:48",
+  "ts": 1792598268,
+  "sig": "cb9091ee098b67aa6d4d3a0b07f824f217e8184dfd77adc0fd287cc4a9a55a52"
 }
