@@ -1,9 +1,9 @@
 {
   "status": "online",
-  "wan_url": "https://developers-hosted-manager-stanford.trycloudflare.com",
+  "wan_url": "https://discrimination-accurately-interpretation-prozac.trycloudflare.com",
   "port": 8000,
   "versao": "v3.3.7",
-  "atualizado_em": "2026-10-21 22:17:14",
-  "ts": 1792635434,
-  "sig": "2e26c1ddb95605528769559548c98a000eb7287c718d0425c1f62c4092df5336"
+  "atualizado_em": "2026-10-21 23:44:06",
+  "ts": 1792640646,
+  "sig": "acf15e2c4418f2e26e31b39692145465ace366cad85943a3aa2f451b11060fa1"
 }
