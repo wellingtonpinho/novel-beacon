@@ -1,9 +1,9 @@
 {
   "status": "online",
-  "wan_url": "https://bills-victory-governmental-printed.trycloudflare.com",
+  "wan_url": "https://developers-hosted-manager-stanford.trycloudflare.com",
   "port": 8000,
   "versao": "v3.3.7",
-  "atualizado_em": "2026-10-21 19:54:10",
-  "ts": 1792626850,
-  "sig": "98b060b44a0e2bb46544efbc02bbfb1f40ada858473e7a01ac25e78613f9b271"
+  "atualizado_em": "2026-10-21 22:17:14",
+  "ts": 1792635434,
+  "sig": "2e26c1ddb95605528769559548c98a000eb7287c718d0425c1f62c4092df5336"
 }
