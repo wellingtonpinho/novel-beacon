@@ -1,9 +1,9 @@
 {
   "status": "online",
-  "wan_url": "https://eligibility-bikes-where-patient.trycloudflare.com",
+  "wan_url": "https://scratch-voltage-norfolk-royal.trycloudflare.com",
   "port": 8000,
   "versao": "v3.3.7",
-  "atualizado_em": "2026-10-23 23:28:40",
-  "ts": 1792812520,
-  "sig": "ef586d6146600ddf9edb0813e0a6cf0d431363d1d1924acbc1cc2cb2f36591f9"
+  "atualizado_em": "2026-10-24 01:00:43",
+  "ts": 1792818043,
+  "sig": "29564b6c5d43f91ea87610d0d832d038a2fe001376d4780a260273b797382f6a"
 }
