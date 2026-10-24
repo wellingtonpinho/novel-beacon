@@ -1,9 +1,9 @@
 {
   "status": "online",
-  "wan_url": "https://scratch-voltage-norfolk-royal.trycloudflare.com",
+  "wan_url": "https://norm-entities-inquire-hopkins.trycloudflare.com",
   "port": 8000,
   "versao": "v3.3.7",
-  "atualizado_em": "2026-10-24 01:00:43",
-  "ts": 1792818043,
-  "sig": "29564b6c5d43f91ea87610d0d832d038a2fe001376d4780a260273b797382f6a"
+  "atualizado_em": "2026-10-24 17:45:18",
+  "ts": 1792878318,
+  "sig": "96116e24aee3ceec1f056d055696e0d1f62971ff28288ebb74bb4de77980dfd2"
 }
