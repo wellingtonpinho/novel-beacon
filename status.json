@@ -1,9 +1,9 @@
 {
-  "status": "online",
-  "wan_url": "https://knowledgestorm-languages-garcia-responses.trycloudflare.com",
+  "status": "offline",
+  "wan_url": "",
   "port": 8000,
   "versao": "v3.3.7",
-  "atualizado_em": "2026-10-25 13:46:42",
-  "ts": 1792950402,
-  "sig": "2c9c430ee77287198917d8ba1e48143bdb390364641f54bcd7f18f6683f281b1"
+  "atualizado_em": "2026-10-25 14:00:36",
+  "ts": 1792951236,
+  "sig": "d91eb7b3ae0feabca788539f5ea4c52298e201318c00779778d46cede4aecbdc"
 }
