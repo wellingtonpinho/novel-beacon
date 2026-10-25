@@ -1,9 +1,9 @@
 {
-  "status": "online",
-  "wan_url": "https://initiated-park-mtv-ticket.trycloudflare.com",
+  "status": "offline",
+  "wan_url": "",
   "port": 8000,
   "versao": "v3.4.1",
-  "atualizado_em": "2026-10-25 19:39:39",
-  "ts": 1792971579,
-  "sig": "2c19a32a7453ef21634c93a725c071fe935ead13a03e2d0a3e324fb7e406e6d2"
+  "atualizado_em": "2026-10-25 19:53:10",
+  "ts": 1792972390,
+  "sig": "0f5d523e925bb35c9ca1728079f7e5c1be5dc3984c0d8acc847168a1fd050046"
 }
