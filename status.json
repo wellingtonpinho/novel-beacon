@@ -1,9 +1,9 @@
 {
-  "status": "online",
-  "wan_url": "https://instruction-excuse-peas-pretty.trycloudflare.com",
+  "status": "offline",
+  "wan_url": "",
   "port": 8000,
   "versao": "v3.3.9",
-  "atualizado_em": "2026-10-25 16:47:12",
-  "ts": 1792961232,
-  "sig": "3edd92319c5a57e0cd0effc2a3f03a5c208d85489fc91310ff31b0233213537b"
+  "atualizado_em": "2026-10-25 17:03:58",
+  "ts": 1792962238,
+  "sig": "7df3d06c43431094b02b64034905b4920988b6c84ff5f4f242c57f148a809707"
 }
