@@ -1,9 +1,9 @@
 {
-  "status": "online",
-  "wan_url": "https://mirror-ant-person-knives.trycloudflare.com",
+  "status": "offline",
+  "wan_url": "",
   "port": 8000,
   "versao": "v3.4.7",
-  "atualizado_em": "2026-10-26 12:17:50",
-  "ts": 1793031470,
-  "sig": "3978da476fc001819ae1033f30798b929ca279aeb2416ee9035a380e3561a47d"
+  "atualizado_em": "2026-10-26 12:53:36",
+  "ts": 1793033616,
+  "sig": "70692c9eda4d9c49b27270184f8a2208b8ab981d1e8fb6547a754c1b17bfeada"
 }
