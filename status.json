@@ -1,9 +1,9 @@
 {
-  "status": "offline",
-  "wan_url": "",
+  "status": "online",
+  "wan_url": "https://bureau-seller-talented-skill.trycloudflare.com",
   "port": 8000,
-  "versao": "v3.4.7",
-  "atualizado_em": "2026-10-26 12:53:36",
-  "ts": 1793033616,
-  "sig": "70692c9eda4d9c49b27270184f8a2208b8ab981d1e8fb6547a754c1b17bfeada"
+  "versao": "v3.4.8",
+  "atualizado_em": "2026-10-26 13:01:51",
+  "ts": 1793034111,
+  "sig": "8b97b79dc0cd83f7653082405c2f1769b741038ac541f81d7e3752449a5ea539"
 }
