@@ -1,9 +1,9 @@
 {
-  "status": "online",
-  "wan_url": "https://developments-format-reviews-psychological.trycloudflare.com",
+  "status": "offline",
+  "wan_url": "",
   "port": 8000,
   "versao": "v3.4.3",
-  "atualizado_em": "2026-10-25 21:41:58",
-  "ts": 1792978918,
-  "sig": "55193bd275f4b3d9c9aa743fb0f36a9dbdedaa908edb13ccef85a76a6f1afb22"
+  "atualizado_em": "2026-10-25 21:44:58",
+  "ts": 1792979098,
+  "sig": "257f3cb50fa2090de4c3e9092bc88e392028a95f814afb6d23a4a2d7e8fbb9f1"
 }
