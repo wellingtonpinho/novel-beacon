@@ -1,9 +1,9 @@
 {
-  "status": "offline",
-  "wan_url": "",
+  "status": "online",
+  "wan_url": "https://known-ross-individually-gone.trycloudflare.com",
   "port": 8000,
   "versao": "v3.4.9",
-  "atualizado_em": "2026-10-29 16:13:24",
-  "ts": 1793304804,
-  "sig": "0d5c4cea726f2b3ec75a967622e796f1f75628e495db64e1dcfc01d820e61cdf"
+  "atualizado_em": "2026-10-29 16:59:22",
+  "ts": 1793307562,
+  "sig": "0a8b0b010fac6d49a2874f63c917cd7575b9d410bd76b79c2f1204fef4dabf7e"
 }
