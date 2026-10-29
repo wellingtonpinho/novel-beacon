@@ -1,9 +1,9 @@
 {
-  "status": "offline",
-  "wan_url": "",
+  "status": "online",
+  "wan_url": "https://configured-collect-examples-visiting.trycloudflare.com",
   "port": 8000,
-  "versao": "v3.4.8",
-  "atualizado_em": "2026-10-26 13:03:46",
-  "ts": 1793034226,
-  "sig": "cdefb924661af4ce1a452d32333d1036f5cb8e1af281949dbc8637cb3a78cabc"
+  "versao": "v3.4.9",
+  "atualizado_em": "2026-10-29 16:01:08",
+  "ts": 1793304068,
+  "sig": "23d09e437de69f4c6aedc63a203fec917f308043bec5e7d8462d54d473e66797"
 }
