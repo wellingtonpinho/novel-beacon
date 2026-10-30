@@ -1,9 +1,9 @@
 {
-  "status": "online",
-  "wan_url": "https://barnes-know-signing-operate.trycloudflare.com",
+  "status": "offline",
+  "wan_url": "",
   "port": 8000,
   "versao": "v3.4.9",
-  "atualizado_em": "2026-10-29 22:44:32",
-  "ts": 1793328272,
-  "sig": "8113095fae898bd8a7a9630266be7848f5a1d9b550ba8c0dcd13ec2e38cc8480"
+  "atualizado_em": "2026-10-29 23:01:41",
+  "ts": 1793329301,
+  "sig": "cdb93543454ffb93c4cedcfb39718bcaeed1c63e8e3b17c20149fa65526fbb25"
 }
