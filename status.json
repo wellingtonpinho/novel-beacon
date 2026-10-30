@@ -1,9 +1,9 @@
 {
-  "status": "offline",
-  "wan_url": "",
+  "status": "online",
+  "wan_url": "https://thanksgiving-chi-stephanie-particularly.trycloudflare.com",
   "port": 8000,
   "versao": "v3.4.9",
-  "atualizado_em": "2026-10-29 23:01:41",
-  "ts": 1793329301,
-  "sig": "cdb93543454ffb93c4cedcfb39718bcaeed1c63e8e3b17c20149fa65526fbb25"
+  "atualizado_em": "2026-10-30 19:38:25",
+  "ts": 1793403505,
+  "sig": "b006b67cd0bf21a7d13645e719d7dd9117e6c360b36c17ee747109b91906eeaa"
 }
