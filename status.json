@@ -1,9 +1,9 @@
 {
-  "status": "online",
-  "wan_url": "https://investigate-materials-michael-sen.trycloudflare.com",
+  "status": "offline",
+  "wan_url": "",
   "port": 8000,
   "versao": "v3.4.9",
-  "atualizado_em": "2026-11-14 16:14:02",
-  "ts": 1794687242,
-  "sig": "4bae5892f7fd4c97faac0966ce793a9f31f89acc9106eccb332dc97d24f23e90"
+  "atualizado_em": "2026-11-14 16:28:33",
+  "ts": 1794688113,
+  "sig": "22f3e4c55058273995602037155f94187564cc1aef29637250f6395de9f09f4e"
 }
