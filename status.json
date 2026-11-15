@@ -1,9 +1,9 @@
 {
-  "status": "offline",
-  "wan_url": "",
+  "status": "online",
+  "wan_url": "https://cayman-expenditure-someone-finances.trycloudflare.com",
   "port": 8000,
   "versao": "v3.4.9",
-  "atualizado_em": "2026-11-14 16:28:33",
-  "ts": 1794688113,
-  "sig": "22f3e4c55058273995602037155f94187564cc1aef29637250f6395de9f09f4e"
+  "atualizado_em": "2026-11-15 08:30:09",
+  "ts": 1794745809,
+  "sig": "768c4cd895d334d3e5e182d68dd129d410e2d9d395be14a48da3f2b8c359b8a0"
 }
